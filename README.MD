@@ -78,13 +78,13 @@ or if you're Locally hosting, create a file named `config.env` in the root direc
 An example of `config.env` file:
 
 ```py
-API_ID=12345
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
+API_ID=16476797
+API_HASH=ce944343fb868da0cb85d555d6db1c69
+BOT_TOKEN=5994659406:AAGiQUc2C2hMfjfhu9illRpOoVyfAUtQDfA
 BIN_CHANNEL=-100
 PORT=8080
 FQDN=your_server_ip
-OWNER_ID=your_user_id
+OWNER_ID=5502817142
 DATABASE_URL=mongodb_uri
 ```
   </details>
